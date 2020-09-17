@@ -44,7 +44,7 @@ After learning about voice and tone, learning about what might be covered in a U
 ---
 ## Frequently asked questions
 
-##### What is UX writing? What is it not?
+#### What is UX writing? What is it not?
 UX writing is writing for interfaces of products or services. UX writing may involve:
 * button text
 * error messages
@@ -57,7 +57,7 @@ UX writing is *not*:
 * Marketing copy (e.g., company website pages; e-books; whitepapers; blogs; social media copy)
 * Technical writing (e.g., a manual)
 
-##### What's the difference between voice and tone?
+#### What's the difference between voice and tone?
 
 It can be hard to know the difference between voice and tone but here are a few analogies we’ve come across that help:
 
@@ -69,19 +69,19 @@ Another helpful analogy from Strategic Writing for UX:
 
 In general, your voice will always stay the same, but your tone will change based on the stage the person using your product or service is in. For example, Writing is Designing, uses the example of insurance company Geico, which has a strong brand voice. But when someone is filing a claim, the tone changes — the tone is supportive, but the language is stripped down so that it’s simple and clear. People don’t want to mess around with a clever mascot when they’ve just been in a crash and Geico recognized that by changing its tone to match the situation.
 
-##### Where's the first place you should start with UX writing?
+#### Where's the first place you should start with UX writing?
 
 Consistency is important, so set guidelines for UX writing to help get everyone on the same page and settle arguments as they arise. You can do that with a UX writing guide. But you don’t need to reinvent the wheel and create one from scratch. There are lots of style guides out there (we largely use The Canadian Press Stylebook and the accompanying Canadian Press Caps and Spelling at Zeitspace, for example) and create exceptions to suit your needs. While The Canadian Press Stylebook omits the Oxford comma, we created an exception in our Zeitspace style guide to include it.
 
 Take a look at established and respected UX style and style guides to learn how they tackle consistency and exceptions. The Resources section, below, has links to some of the better known ones.
 
-##### Style guide vs UX writing guide, what's the difference? How are they similar?
+#### Style guide vs UX writing guide, what's the difference? How are they similar?
 
 Though there’s some overlap between a style guide and a UX writing guide, (Oxford commas, for example, exist in both of the guides we created for Zeitspace), they are not the same thing. While both will make your writing consistent, the goal of each is different. One is about your organization, the other is about the people you serve.
 * A style guide is like a map for how you want to communicate your brand and specific voice to the world. It often includes guidance on visual design and interaction design, in addition to writing.
 * A UX writing guide focuses on the consistent application of voice, tone, and mechanics in order to make people's experience with a product or service efficient.
 
-##### What should I do if our UX writing guide clashes with the platform style guide (e.g., Google Material Design, Apple Human Interface Guidelines, Microsoft Fluent, etc.)?
+#### What should I do if our UX writing guide clashes with the platform style guide (e.g., Google Material Design, Apple Human Interface Guidelines, Microsoft Fluent, etc.)?
 
 * Be true to your voice first.
 * Respect the work you and your stakeholders have done to create your writing guide.
@@ -89,7 +89,7 @@ Though there’s some overlap between a style guide and a UX writing guide, (Oxf
 * Discuss and understand the sorts of situations you may encounter where you'll diverge from the UX writing guide. For example, as a consultancy, Zeitspace often adopts the voice and goals of a client's project.
 * Document exceptions or cases where your style guide differs (and why). Your UX writing guide should be a living document: update it as you come across new situations.
 
-##### How does UX writing relate to writing for marketing purposes?
+#### How does UX writing relate to writing for marketing purposes?
 
 The goal of marketing (and writing for marketing) is to serve the brand and the business. It’s how you present yourself to the world and it’s often self serving. The goal of UX writing is to serve the *user* of the product or service, not the organization that created them.
 
