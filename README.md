@@ -108,6 +108,7 @@ You can get away with some tactics for marketing, such as clever and witty writi
   * [18F Content Guide](https://content-guide.18f.gov).
   * The [Apple Style Guide](https://help.apple.com/applestyleguide/) describes how to write in and about the Apple product ecosystem.
   * Canada Post's [UX writing guide](https://www.canadapost.ca/cpc/en/designsystem/mercury/ux-writing.page) is part of their [larger design system](https://www.canadapost.ca/cpc/en/designsystem/mercury/home.page).
+  * [*The Canadian Press Stylebook* and *Caps and Spelling*](https://www.thecanadianpress.com/writing-guide/) are the guides used by nearly all media outlets in Canada. At Zeitspace, we use CP Style as a default, with some exceptions that we note in both our UX writing guide and our editorial style guide for blog posts.
   * Google Material Design [writing guidance](https://material.io/design/communication/writing.html).
   * Mailchimp's [Content Style Guide](https://styleguide.mailchimp.com). This guide is widely regarded as one of the best freely available content style guides. Some organizations use it instead of developing their own guide.
   * [Microsoft Style Guide](https://docs.microsoft.com/en-ca/style-guide/welcome/).
