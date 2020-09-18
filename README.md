@@ -1,9 +1,8 @@
 # How to create your own UX writing guide
 
-Welcome to the **How to create your own UX writing guide** Zeitspace Session!
-Let's make sure you're all set up.
+Welcome to the **How to create your own UX writing guide** Zeitspace Session resource page! Let's make sure you're all set up.
 
-If you didn't attend the session in person, no problem. You may want to [read the slide deck](https://github.com/zeitspace/web-accessibility-session/blob/master/Resources/Zeitspace%20Session%20-%20Web%20accessibility%20slides.pdf) for a bit of background, but it isn't required.
+If you didn't attend the session in person, you may want to [read the slide deck](https://github.com/zeitspace/web-accessibility-session/blob/master/Resources/Zeitspace%20Session%20-%20Web%20accessibility%20slides.pdf) for a bit of background, but it isn't required.
 
 ## Setup
 
@@ -25,6 +24,8 @@ A [description of the voice and tone chart activity](https://www.zeitspace.com/v
 
 Learning from (and leaning on) several of the publicly available style guides and UX writing guides (check out our favourite ones in the Resources section), we've created a skeleton template for you to start with.
 
+The template contains topics we felt we'd encounter often enough as part of our UX practice.
+
 A [description of how to use the UX writing guide template](https://www.zeitspace.com/voice-and-tone-chart) is available on the Zeitspace web site.
 
 ## Activity 3 - Iterative rewriting
@@ -45,7 +46,7 @@ After learning about voice and tone, learning about what might be covered in a U
 ## Frequently asked questions
 
 #### What is UX writing? What is it not?
-UX writing is writing for interfaces of products or services. UX writing may involve:
+UX writing is writing for interfaces of products or services — this is an important part of UX design. UX writing may involve:
 * button text
 * error messages
 * dialog text
@@ -91,7 +92,7 @@ Though there’s some overlap between a style guide and a UX writing guide, (Oxf
 
 #### How does UX writing relate to writing for marketing purposes?
 
-The goal of marketing (and writing for marketing) is to serve the brand and the business. It’s how you present yourself to the world and it’s often self serving. The goal of UX writing is to serve the *user* of the product or service, not the organization that created them.
+The goal of marketing (and writing for marketing) is to serve the brand and the business. It’s how you present yourself to the world and it’s often self serving. The goal of UX writing is to serve the *user* of the product or service.
 
 You can get away with some tactics for marketing, such as clever and witty writing, which doesn’t work as well in UX writing (these same tactics might backfire/frustrate the user or slow them down). There are exceptions though. For some companies/products, the product is the brand and they can get away with occasionally irreverent copy (e.g., Mailchimp, Slack).
 
