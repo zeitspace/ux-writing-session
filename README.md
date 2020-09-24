@@ -2,13 +2,17 @@
 
 Welcome to the **How to create your own UX writing guide** Zeitspace Session resource page! Let's make sure you're all set up.
 
-If you didn't attend the session in person, you may want to [read the slide deck](https://github.com/zeitspace/web-accessibility-session/blob/master/Resources/Zeitspace%20Session%20-%20Web%20accessibility%20slides.pdf) for a bit of background, but it isn't required.
+If you didn't attend the session in person, you may want to [read the slide deck](https://github.com/zeitspace/ux-writing-session/blob/master/Slide%20Deck/UX%20Writing%20Zeitspace%20Session%20slide%20deck.pdf) for a bit of background, but it isn't required.
 
 ## Setup
 
 * We are using Zoom as our online meeting platform. It doesn't take long to [install from their site](https://zoom.us/download).
 * We'll share some exercise materials using Google Drive. To take advantage of these resources most easily, make sure you can [access Google Drive](https://drive.google.com/).
 * A pencil or pen, and some paper might be handy.
+
+## UX Writing Guide Template
+
+We've shared a [skeleton writing guide template](https://docs.google.com/document/d/1-aZb-oMyJHhRwpOeHb3Rik9PALAejVdpF4kVP5wLS60/edit?usp=sharing). It pulls together pieces of well-respected, publicly available writing guides (see the Resources section) to provide a framework for starting to build your own. It covers voice and tone, as well as grammar and mechanics. There are prompting questions and things to think about for many of the sections to help guide your team discussions.
 
 ## Activity 1 - Voice and tone chart
 
@@ -18,17 +22,9 @@ A voice and tone chart is a creative guidance tool that can help:
 * align UX writing with the goals of the organization and the user
 * help build trust through a "consistent, cohesive, visual and verbal voice" (Bloomstein, 2020)
 
-A [description of the voice and tone chart activity](https://www.zeitspace.com/voice-and-tone-chart) is available on the Zeitspace web site.
+A [description of the voice and tone chart activity](https://github.com/zeitspace/ux-writing-session/blob/master/Activity%20Guides/Voice%20and%20Tone%20Chart/Voice%20and%20tone%20chart.htm) is available to help you work through this exercise outside of the session.
 
-## Activity 2 - UX writing guide template
-
-Learning from (and leaning on) several of the publicly available style guides and UX writing guides (check out our favourite ones in the Resources section), we've created a skeleton template for you to start with.
-
-The template contains topics we felt we'd encounter often enough as part of our UX practice.
-
-A [description of how to use the UX writing guide template](https://www.zeitspace.com/voice-and-tone-chart) is available on the Zeitspace web site.
-
-## Activity 3 - Iterative rewriting
+## Activity 2 - Iterative rewriting
 
 This activity shows how to rewrite a block of text deliberately and with consideration for several elements of strong UX writing. The four stages and goals of the activity are:
 * make the writing *purposeful*
@@ -36,7 +32,7 @@ This activity shows how to rewrite a block of text deliberately and with conside
 * make the writing *conversational*
 * make the writing *clear*
 
-A [description of the iterative rewriting activity](https://www.zeitspace.com/iterative-rewriting) is available on the Zeitspace web site.
+A [description of the iterative rewriting activity](https://github.com/zeitspace/ux-writing-session/blob/master/Activity%20Guides/Interactive%20Rewriting/Iterative%20rewriting%20activity.htm) is available to help you work through this exercise outside of the session.
 
 #### Wrap-up
 
@@ -121,7 +117,10 @@ You can get away with some tactics for marketing, such as clever and witty writi
 * Articles
   * [Copywriting for UX](https://medium.com/theagency/copywriting-for-ux-1c577924698a) by [Talisa Chang](http://talisachang.com/). Great overview of the value and mechanics of UX copyrighting. Looks at the organizational context as well as work product.
   * [Creating a Copywriting Style Guide](https://uiux.blog/creating-a-copywriting-style-guide-6b07c0935953) by [Shruthi Padala](https://twitter.com/spadala7).
+  * [Reminder: Design is still about words](https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words) is an article by [Mig Reyes](https://twitter.com/migreyes), showing how much work text does in some of our favour product interfaces (by showing the UI with and without any text).
+  * [Tone of Voice and User Experience](https://uxmag.com/articles/tone-of-voice-and-user-experience) by Seda Manucharyan. Good introductory article to voice and tone.
 
 
-* Training
-  * Google's online [Technical Writing Courses](https://developers.google.com/tech-writing).
+* Tools
+  * [Text Free Browsing Chrome extension](https://chrome.google.com/webstore/detail/text-free-browsing/ioglfbphilinnhdmfbmfljmhemegfcdg) by Jonas Lund. This extension allows you to hide all text on a web page.
+  * Google's online [Technical Writing Courses](https://developers.google.com/tech-writing) provide an overview of grammar, clarity, sentence structure, tables and lists, and more.
