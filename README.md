@@ -22,7 +22,7 @@ A voice and tone chart is a creative guidance tool that can help:
 * align UX writing with the goals of the organization and the user
 * help build trust through a "consistent, cohesive, visual and verbal voice" (Bloomstein, 2020)
 
-A [description of the voice and tone chart activity](https://github.com/zeitspace/ux-writing-session/blob/master/Activity%20Guides/Voice%20and%20Tone%20Chart/Voice%20and%20tone%20chart.htm) is available to help you work through this exercise outside of the session.
+A [description of the voice and tone chart activity](https://htmlpreview.github.io/?https://github.com/zeitspace/ux-writing-session/blob/master/Activity%20Guides/Voice%20and%20Tone%20Chart/Voice%20and%20tone%20chart.htm) is available to help you work through this exercise outside of the session.
 
 ## Activity 2 - Iterative rewriting
 
@@ -32,7 +32,7 @@ This activity shows how to rewrite a block of text deliberately and with conside
 * make the writing *conversational*
 * make the writing *clear*
 
-A [description of the iterative rewriting activity](https://github.com/zeitspace/ux-writing-session/blob/master/Activity%20Guides/Interactive%20Rewriting/Iterative%20rewriting%20activity.htm) is available to help you work through this exercise outside of the session.
+A [description of the iterative rewriting activity](https://htmlpreview.github.io/?https://github.com/zeitspace/ux-writing-session/blob/master/Activity%20Guides/Interactive%20Rewriting/Iterative%20rewriting%20activity.htm) is available to help you work through this exercise outside of the session.
 
 #### Wrap-up
 
